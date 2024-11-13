@@ -1,4 +1,4 @@
-Lincoln Ma//
+Lincoln Ma <br>
 lim007@ucsd.edu
 DSC180A B16
 Nolan, Sheffield
