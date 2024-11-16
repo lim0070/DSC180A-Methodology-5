@@ -14,7 +14,9 @@ Describe a potential investigation you would like to pursue for your Quarter 2 P
 I would go deeper in IPFS technology and the potenial issue and benefits of replacing centralize storage.
 
 What is a potential change you’d make to the approach taken in your current Quarter 1 Project?
+
 Trying to have a local library to check for malware in the dataset, compare to using a external library which may violate data privacy as it may store on other server to check for the safety.
 
 What other techniques would you be interested in using in your project?
+
 Try to deploy a new crypto currency for the fee
