@@ -1,7 +1,11 @@
 Lincoln Ma <br>
-lim007@ucsd.edu
+
+lim007@ucsd.edu<br>
+
 DSC180A B16
+
 Nolan, Sheffield
+
 What is the most interesting topic covered in your domain this quarter?
 
 IPFS, as it is the main topic that I focus on in our project and able to having decentrializing storage could improve the current problems of centrailize storage such as privacy, data handling and single point failure as the data is separate appart, attacking single note become more invulnerable 
